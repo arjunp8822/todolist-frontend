@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const API_BASE = "https://todolist-api-t0nj.onrender.com"
+const API_BASE = "https://nice-puce-brown-bear-fez.cyclic.app"
 
 function App() {
 
